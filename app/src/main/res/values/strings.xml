@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cruzadinha</string>
+    <string name="botao_jogar">Começar</string>
+    <string name="numero_1">1</string>
+    <string name="numero_2">2</string>
+    <string name="numero_3">3</string>
+    <string name="numero_4">4</string>
+    <string name="numero_5">5</string>
+    <string name="numero_6">6</string>
+    <string name="Palavra1">1 - Lugar onde se mora</string>
+    <string name="Palavra2">2 - Meio de transporte aéreo</string>
+    <string name="Palavra3">3 - Representação tridimensional do retângulo</string>
+    <string name="Palavra4">4 - Roedor conhecido como praga urbana</string>
+    <string name="Palavra5">5 - Peixe de água doce</string>
+    <string name="Palavra6">6 - Nome do meio de Barack Obama</string>
+    <string name="botao_checar">Checar</string>
+    <string name="Voce_venceu">Você Venceu!</string>
+    <string name="Jogue_Denovo">Jogue de novo! :)</string>
+    <string name="instrucoes">Instruções\n\n As letras devem ser inseridas individualmente. Quando a palavra estiver correta, sua descrição ficará verde e com a sinalização de resposta certa. Quando a palavra estiver errada, ficará vermelha. \n\n Ao acertar todas as palavras,você passa para a próxima tela.</string>
+</resources>
